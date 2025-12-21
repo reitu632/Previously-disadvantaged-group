@@ -1,22 +1,34 @@
 # Previously Disadvantaged Group
 
-## Overview
-Previously Disadvantaged Group, founded in 2007, is a community-focused organization dedicated to empowering disadvantaged communities. Our initiatives include sponsorship programs, food distribution, support for local teams, and community upliftment projects.
+Previously Disadvantaged Group is a community-focused organisation established in 2007 in Olievenhoutbosch, South Africa. We empower underprivileged communities through sponsorship, food support, community development programmes, and sports support.
 
-## Website Features
-- **Home Page:** Animated black text highlighting key values such as “We Care,” “Empowering Communities,” and “Supporting Teams.”
-- **About Us:** Learn about our founder Fridah Magoro, mission, and vision.
-- **Our Work:** Details of our programs, food assistance, empowerment initiatives, and community events.
-- **Contact:** Visitors can send messages directly to our email using the mailto button.
+## Website
 
-## Contact
-- **Location:** Olievenhoutbosch
-- **Phone:** 076 064 8174
-- **Email:** fntabane@gmail.com
+The website provides information about our mission, vision, work, and contact details. It includes:
 
-## Deployment
-This website is ready for GitHub Pages. Make sure all HTML, CSS, images, `robots.txt`, and `README.md` are uploaded to the `main` branch.
+- **Home Page:** Overview with motivating messages and a hero section.
+- **About Us:** Background, mission, vision, founder, and location.
+- **Our Work:** Empowerment programmes, community-based activities, food supply, and sports support.
+- **Contact:** Contact form to submit applications directly via email.
 
----
+## Features
 
-© 2007 – Previously Disadvantaged Group
+- Fully responsive and modern design.
+- Motivating animated words on the homepage.
+- Embedded CSS in each page for simplicity.
+- Image gallery showcasing community work.
+- Contact form sends applications directly to: `fntabane@gmail.com`.
+- SEO-friendly with meta descriptions, sitemap, and robots.txt.
+
+## Pages
+
+- `index.html` – Home page
+- `about.html` – About Us page
+- `work.html` – Our Work page
+- `contact.html` – Contact & Applications page
+- `sitemap.xml` – Sitemap for search engines
+- `robots.txt` – Robots file for search engine indexing
+
+## Images
+
+Place all images in a folder named `images/` in the root directory. 
