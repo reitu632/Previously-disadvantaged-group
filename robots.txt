@@ -3,4 +3,4 @@ User-agent: *
 Disallow:
 
 # Sitemap location
-Sitemap: https://YourUsername.github.io/previously-disadvantaged-group/sitemap.html
+Sitemap: https://YourUsername.github.io/previously-disadvantaged-group/sitemap.xml
