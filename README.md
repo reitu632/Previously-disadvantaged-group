@@ -1,34 +1,33 @@
-# Previously Disadvantaged Group
+# Previously Disadvantaged Group Website
 
-Previously Disadvantaged Group is a community-focused organisation established in 2007 in Olievenhoutbosch, South Africa. We empower underprivileged communities through sponsorship, food support, community development programmes, and sports support.
+This repository contains the official website of **Previously Disadvantaged Group**, a community-based organisation established in **2007**. The organisation focuses on empowering underprivileged communities through sponsorship, food support, and development programmes.
 
-## Website
+## Website Pages
 
-The website provides information about our mission, vision, work, and contact details. It includes:
-
-- **Home Page:** Overview with motivating messages and a hero section.
-- **About Us:** Background, mission, vision, founder, and location.
-- **Our Work:** Empowerment programmes, community-based activities, food supply, and sports support.
-- **Contact:** Contact form to submit applications directly via email.
+- **Home (index.html)**: Hero section with moving words, founder’s image, background, mission, and vision.  
+- **About Us (about.html)**: Organisation details, mission, vision, founder, and location.  
+- **Our Work (work.html)**: Detailed overview of empowerment programmes, community activities, food supply, and sports support.  
+- **Contact (contact.html)**: Contact form that sends emails directly to `fntabane@gmail.com`.
 
 ## Features
 
-- Fully responsive and modern design.
-- Motivating animated words on the homepage.
-- Embedded CSS in each page for simplicity.
-- Image gallery showcasing community work.
-- Contact form sends applications directly to: `fntabane@gmail.com`.
-- SEO-friendly with meta descriptions, sitemap, and robots.txt.
+- Fully responsive design  
+- Embedded CSS in each page  
+- Hero section with moving motivational words  
+- Image gallery for community activities  
+- Email contact form using `mailto:`  
+- SEO-friendly meta tags and description  
+- Robots.txt and sitemap.xml included for search engines  
 
-## Pages
+## Deployment
 
-- `index.html` – Home page
-- `about.html` – About Us page
-- `work.html` – Our Work page
-- `contact.html` – Contact & Applications page
-- `sitemap.xml` – Sitemap for search engines
-- `robots.txt` – Robots file for search engine indexing
+This website is hosted on **GitHub Pages**. To deploy:
 
-## Images
+1. Upload all files (HTML, CSS, images, robots.txt, sitemap.xml, README.md) to your repository.  
+2. Enable GitHub Pages in repository settings (branch: `main` or `master`).  
+3. Your site will be live at `https://YourUsername.github.io/previously-disadvantaged-group/`.
 
-Place all images in a folder named `images/` in the root directory. 
+## Contact
+
+Email: [fntabane@gmail.com](mailto:fntabane@gmail.com)  
+Location: Olievenhoutbosch, South Africa
